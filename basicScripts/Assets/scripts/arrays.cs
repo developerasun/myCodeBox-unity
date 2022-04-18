@@ -6,6 +6,7 @@ using UnityEngine;
 public class arrays : MonoBehaviour
 {
     public Animator animator;
+    
     List<GameObject> players;
     List<int> intList = new List<int>{1};
     int[] myLimitedArray = new int[4];
